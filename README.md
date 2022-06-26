@@ -1,3 +1,3 @@
-Curriculo online
+Currículo Online
 
 https://lucianofs.github.io/
