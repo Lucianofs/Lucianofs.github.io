@@ -1,1 +1,1 @@
-https://github.com/Lucianofs/Lucianofs.github.io/
+https://lucianofs.github.io/
