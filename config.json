@@ -1,0 +1,138 @@
+{
+  "site": {
+    "title": "Luciano Francisco | Transformação 360°: Negócio + Alma",
+    "description": "Do Marketing Digital à Terapia Holística: Estratégias que multiplicam seus resultados enquanto reconectam você com seu propósito. Consultor, terapeuta e palestrante transformacional.",
+    "keywords": "marketing espiritual, terapia holística, crescimento negócios, desenvolvimento pessoal, propósito de vida, consultoria marketing, palestras transformadoras, luciano francisco, marketing digital, autoconhecimento"
+  },
+  
+  "pessoa": {
+    "nome": "Luciano Francisco",
+    "titulo": "Especialista em Marketing Consciente & Transformação Pessoal",
+    "foto": "foto-perfil.jpg",
+    "whatsapp": "https://chat.whatsapp.com/KI0aI6wcth72EYdw5Kj1oO",
+    "email": "lucianofrancisco.atende@gmail.com",
+    "bio": "Transforme-se, desperte sua consciência, a sabedoria da Sua Alma. Impulsione Seus Negócios com a inteligência do mercado. Conteúdos que unem e edificam. Minha missão: Criar Caminhos pra te guiar na sua Missão."
+  },
+  
+  "servicos": [
+    {
+      "id": "consultoria",
+      "icone": "📈",
+      "titulo": "Consultoria Marketing 360°",
+      "descricao": "Estratégia completa: do diagnóstico à execução. Aumente conversões em 30-150% em 90 dias.",
+      "preco": "",
+      "detalhes": ["Diagnóstico profundo", "Plano de ação 90 dias", "4 sessões de acompanhamento", "Ferramentas exclusivas"],
+      "whatsapp_msg": "Olá Luciano! Quero a Consultoria Marketing 360°. Me explique como funciona."
+    },
+    {
+      "id": "palestras",
+      "icone": "🎤",
+      "titulo": "Palestras Transformadoras: O Ponto de Encontro entre Alma, Negócios e Sociedade",
+      "descricao": "Experiências únicas que fundem espiritualidade prática, estratégias de mercado comprovadas e visão social transformadora. Conteúdo 100% autoral baseado em 3 pilares: sabedoria dos livros publicados, vivência como terapeuta holístico e experiência real em marketing digital/político e gestão de políticas públicas.",
+      "preco": "",
+      "detalhes": [
+        "Palestra com conteúdo exclusivo baseado em livros autorais (Energia, Valor do seu EU, Políticas Públicas, etc)",
+        "Palestra com sabedoria de terapeuta holístico aplicada ao crescimento profissional e pessoal",
+        "Palestra com Estratégias reais de marketing digital e político que funcionam",
+        "Palestra com visão prática de projetos sociais e políticas públicas transformadoras",
+        "Formato personalizado: keynote, workshop ou imersão completa"
+      ],
+      "whatsapp_msg": "Olá! Quero conhecer TODAS as opções de palestras transformadoras. Pode me enviar o portfólio completo com temas, formatos e investimentos?"
+    },
+    {
+      "id": "terapia",
+      "icone": "🧘",
+      "titulo": "Terapia Holística Integrativa",
+      "descricao": "Cura energética + reprogramação mental. Elimine bloqueios que travam seu crescimento.",
+      "preco": "",
+      "detalhes": ["Limpeza energética", "Reprogramação de crenças", "Técnicas de autoconhecimento", "Plano de evolução pessoal"],
+      "whatsapp_msg": "Olá! Tenho interesse na Terapia Holística. Podemos agendar?"
+    }
+  ],
+  
+  "produtos": [
+    {
+      "nome": "E-BOOK: 'ENERGIA' + BÔNUS",
+      "descricao": "108 páginas + bônus exclusivos. Método para realinhar sua energia e atrair abundância.",
+      "preco": "",
+      "link": "https://www.amazon.com.br/Energia-Todos-Passado-presente-futuro-ebook/dp/B0CDJNDCVK",
+      "destaque": true,
+      "categoria": "E-book"
+    },
+    {
+      "nome": "O Valor do Seu EU: Descubra o Poder que Existe em Você",
+      "descricao": "Guia prático de autodescoberta e empoderamento pessoal. Aprenda a reconhecer e potencializar sua essência única.",
+      "preco": "",
+      "link": "https://amzn.to/3Kns9S1",
+      "destaque": true,
+      "categoria": "Livro"
+    },
+    {
+      "nome": "Você Precisa Saber: Como?! Política Pública para Pessoas Idosas - Faça Você!",
+      "descricao": "Manual prático para criação e implementação de políticas públicas voltadas para a terceira idade. Conteúdo técnico acessível.",
+      "preco": "",
+      "link": "https://amzn.to/3XKbaMJ",
+      "destaque": false,
+      "categoria": "Livro Técnico"
+    },
+    {
+      "nome": "Windows para Pessoas Idosas e Você",
+      "descricao": "Curso completo em vídeo aulas. Ensina desde o básico até recursos avançados do Windows, com linguagem adaptada para melhor aprendizado.",
+      "preco": "Consulte valor",
+      "link": "https://hotmart.com/pt-br/marketplace/produtos/windows-para-pessoas-idosas-e-voce/P50344608R",
+      "destaque": true,
+      "categoria": "Curso Online"
+    }
+  ],
+  
+  "lojas": [
+    {"nome": "Mercado Livre", "link": "https://mercadolivre.com/sec/1FATQPa", "icone": "🛒"},
+    {"nome": "Shopee", "link": "https://br.shp.ee/tLiWtzn", "icone": "📦"},
+    {"nome": "Amazon", "link": "https://www.amazon.com.br/shop/profile/amzn1.account.AH4TOJ6RR5E3OJR6R4OTPKGZGKQQ/list/MDB8N5I8AVCM", "icone": "📚"}
+  ],
+  
+  "redes": {
+    "youtube": {"link": "https://www.youtube.com/@LucianoFranciscoProfessor/videos", "embed": "https://www.youtube.com/embed/Y0aS7OMwy8I?rel=0", "texto": "Assista meu vídeo mais visto:"},
+    "tiktok": "https://www.tiktok.com/@luciano.franciscoi",
+    "kwai": "https://k.kwai.com/u/@professorluciano/DCUXtLt7",
+    "facebook": "https://www.facebook.com/lucianofranciscoi",
+    "instagram": "https://instagram.com/lucianofranciscoi"
+  },
+  
+  "depoimentos": [
+    {
+      "foto": "cliente1.jpg",
+      "nome": "Carlos Mendes",
+      "resultado": "Estratégias + Expansão de Vendas + Visão de Mercado",
+      "texto": "Marketing Digital. O trabalho do Luciano transformou minha visão de negócio. Em 3 meses, minhas vendas aumentaram consideravelmente com estratégias conscientes e alinhadas.",
+      "cargo": "Empreendedora • Marketing"
+    },
+    {
+      "foto": "cliente2.jpg",
+      "nome": "Ana Ribeiro",
+      "resultado": "+8 anos em 3 meses + Clareza + Transformação",
+      "texto": "Terapeuta Holistico. Contratei sessões de terapia holística. Em 90 dias, encontrei clareza, propósito e uma nova energia para meus desafios pessoais e profissionais. Foram transformadores. A parte espiritual foi o diferencial que o mentor ofereceu.",
+      "cargo": "Terapia Holística"
+     },
+     {
+      "foto": "cliente3.jpg",
+      "nome": "Empresa SECIJU",
+      "resultado": "Encontrou propósito + Inpiração + Motivação 4x",
+      "texto": "Palestrante. Projetos. Com a criação do Projeto Mobiliza + estratégias do Luciano, a violência praticada contra Pessoas Idosas no Estado do Tocantins diminuiram bastante, suas talks e palestras foram inspiradoras. Uniu conceitos profundos com aplicação prática. A pasta saiu motivada e com novas ferramentas.",
+      "cargo": "Palestra Corporativa"
+     }
+  ],
+  
+  "gatilhos": {
+    "contador_clientes": "437",
+    "garantia": "7 dias",
+    "oferta_especial": "Últimas 3 vagas com 30% OFF",
+    "tempo_restante": "48:00:00"
+  },
+  
+  "urgencia": [
+    "⚠️ OFERTA ESPECIAL: Primeiros 5 hoje ganham sessão bônus",
+    "⏰ Consultorias disponíveis: 3/10 vagas",
+    "🎁 Hoje: E-book + bônus"
+  ]
+}
