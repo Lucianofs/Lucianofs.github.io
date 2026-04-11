@@ -6,6 +6,3 @@
 
 site: 
 https://lucianofrancisco.com.br/
-
-Github 
-https://lucianofs.github.io/
