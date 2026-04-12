@@ -283,7 +283,7 @@ const Hero = () => (
                 className="w-32 h-32 md:w-48 md:h-48 rounded-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
                 referrerPolicy="no-referrer"
                 onError={(e) => {
-                  (e.target as HTMLImageElement).src = "https://picsum.photos/seed/luciano/400/400";
+                  (e.target as HTMLImageElement).src = "https://github.com/Lucianofs/Lucianofs.github.io/blob/main/foto-perfil.jpg";
                 }}
               />
             </div>
