@@ -278,7 +278,7 @@ const Hero = () => (
           <div className="relative p-1 rounded-full bg-gradient-to-tr from-sky-400 to-emerald-400">
             <div className="bg-slate-950 rounded-full p-1">
               <img 
-                src="https://lucianofrancisco.com.br/wp-content/uploads/2023/08/luciano-francisco-perfil.png" 
+                src="https://github.com/Lucianofs/Lucianofs.github.io/blob/main/foto-perfil.jpg" 
                 alt="Luciano Francisco" 
                 className="w-32 h-32 md:w-48 md:h-48 rounded-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
                 referrerPolicy="no-referrer"
