@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ibb.co/TDzL1Yvw"/>
+<img width="1200" height="475" alt="CFO da Alma e dos Negócios" src="https://lucianofrancisco.com.br/"/>
 </div>
 
 # Mensagem 
