@@ -1,6 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="CFO da Alma e dos Negócios" src="https://lucianofrancisco.com.br/"/>
-</div>
+CFO da Alma e dos Negócios
 
 # Mensagem 
 
